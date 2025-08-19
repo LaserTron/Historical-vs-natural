@@ -1,1 +1,1 @@
-This jupyter notebook shows the methodology to produce a graphic comparing historical and natural CMIP simulation runs.
+This jupyter notebook shows the methodology to produce a graphic comparing historical and natural CMIP simulation runs. You can interact with the notebook on binder here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LaserTron/Historical-vs-natural/HEAD)
